@@ -1,2 +1,3 @@
-# pandas-challenge-1
+# Module 4 Challenge
  
+This challenge was to use a dataset from an e-commerce company to calculate various aspects such as profit, cost, and top clients. To do so, I was able to transform specific columns to calculate and create a column to display new information. I could also change the numbers to millions and sort the values in selected category for easier understanding. Usage of lambda function and custom functions was the key of this exercise because it opens up all the possibilities of analyzing and transforming the data to get our desired results.
